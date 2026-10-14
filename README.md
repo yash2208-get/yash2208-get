@@ -127,9 +127,9 @@ MongoDB
 
 ## 🌐 Connect with Me
 
-📧 Email: your-email@gmail.com
+📧 Email: yashajmera1203@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: https://www.linkedin.com/in/yash-maheshwari800055
 
 🌐 Portfolio: https://yash2208-get.github.io/yash-maheshwari/
 
