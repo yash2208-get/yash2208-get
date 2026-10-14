@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Maheshwari</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Laravel | Next.js | Node.js</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Laravel | Node.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+Developer;Next.js+Developer;Node.js+Developer;AI+Automation+Developer;Open+to+Remote+Work" />
@@ -12,8 +12,6 @@
 💻 Full Stack Developer with 3.5+ years of experience
 
 ⚡ Backend Development using Laravel & Node.js
-
-🎨 Frontend Development using React & Next.js
 
 🤖 AI Automation using LangChain, Ollama & Python
 
@@ -31,7 +29,7 @@
 
 ### Frontend
 
-HTML5 • CSS3 • JavaScript • React • Next.js • Tailwind CSS • Bootstrap
+HTML5 • CSS3 • JavaScript  • Tailwind CSS • Bootstrap
 
 ### Backend
 
@@ -68,8 +66,6 @@ Git • GitHub • Postman • VS Code • Figma
 ---
 
 ### 🚗 Car Rental Platform
-
-Next.js
 
 Node.js
 
